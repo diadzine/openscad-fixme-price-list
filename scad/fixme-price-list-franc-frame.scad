@@ -17,7 +17,7 @@ _frame_width = 20;
 _cleat_size = 4;
 _cleat_elevation = 2;
 _elevation = 5;
-print = 3;
+print = 0;
 
 /****** MODULES ****/
 module RoundingEdge(radius, length) {	
